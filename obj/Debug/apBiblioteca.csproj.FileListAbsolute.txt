@@ -1,0 +1,59 @@
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.csproj.AssemblyReference.cache
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\bin\Debug\apBiblioteca.exe
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\bin\Debug\apBiblioteca.pdb
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.exe
+P:\19-Informática\2024\2oAno\TI224 - Programacao Multiplataforma\exemplos\MVC\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\bin\Debug\apBiblioteca.exe
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\bin\Debug\apBiblioteca.pdb
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.AssemblyReference.cache
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.exe
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Z:\MVC2\mvc2\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+Z:\MVC2\mvc2\apBiblioteca\bin\Debug\apBiblioteca.exe
+Z:\MVC2\mvc2\apBiblioteca\bin\Debug\apBiblioteca.pdb
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.AssemblyReference.cache
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.exe
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmDevolucoes.resources
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmEmprestimos.resources
+Z:\MVC2\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmDevolucoes.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmEmprestimos.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\11 cotuca\MVC\mvc2\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\11 cotuca\MVC\mvc2\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.AssemblyReference.cache
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmDevolucoes.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmEmprestimos.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivrosEmprestados.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivrosAtrasados.resources
+C:\11 cotuca\MVC\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmEstatisticas.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmEstatisticas.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivrosAtrasados.resources
+Z:\Técnico\3 semestre\Programação MultiPlataforma\Projeto\mvc2\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivrosEmprestados.resources
